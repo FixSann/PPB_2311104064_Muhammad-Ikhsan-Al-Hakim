@@ -66,7 +66,7 @@ class RekomendasiWisataPage extends StatelessWidget {
       TempatWisata(
         nama: 'Small World Purwokerto',
         foto:
-            'https://asset.kompas.com/crops/cjfD-rD_tJQZqGZXcVJ1_8F67ZM=/0x0:1000x667/750x500/data/photo/2022/07/18/62d4da1e9f5bb.jpg',
+            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKl2dwqQiuXwCEd3FKRoY_UgsRZd8wunGWfg2BDp4XOO_BGNTfTkWzFFQzg2NkliVAdOlPSNQqqATvgnLTpuprejl6K1K81813aDbQ31XpP22KvvYd621jzrjcDYpOOSXATaEJqKDVTVKTRtFS7eBOAxF42oA05NCk1wlrAv3GC9w8vtlW2MK2L2BW/s1600/20220817_084919646.jpg',
         deskripsi:
             'Taman miniatur yang menampilkan replika bangunan ikonik dunia dalam skala kecil. Cocok untuk berfoto dan edukasi keluarga.',
         kategori: 'Taman Wisata',
@@ -75,7 +75,7 @@ class RekomendasiWisataPage extends StatelessWidget {
       TempatWisata(
         nama: 'Owabong Water Park',
         foto:
-            'https://asset.kompas.com/crops/nQ3lLH5TLnPtc0kNYjqLqJLLjlM=/0x0:1000x667/750x500/data/photo/2021/12/29/61cc1a9e5b3f5.jpg',
+            'https://www.nativeindonesia.com/foto/2023/04/owabong-waterpark-purbalingga.jpg',
         deskripsi:
             'Taman air terbesar di Jawa Tengah dengan berbagai wahana air yang seru dan menantang. Destinasi favorit untuk liburan keluarga.',
         kategori: 'Water Park',
